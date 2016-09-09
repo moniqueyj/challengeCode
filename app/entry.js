@@ -10,6 +10,6 @@ const ngTable = require('ng-table');
 const angular = require('angular');
 
 // angular modules
-angular.module('sampleApp',[ngTable.name]);
+angular.module('sampleApp',['ngTable']);
 require('./component/create-data-table');
 // require('./component/table-list-data-chart');

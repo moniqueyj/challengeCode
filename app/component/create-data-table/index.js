@@ -30,6 +30,5 @@ sampleApp.component('createDataTable',{
         }
       }
     );
-    console.log($scope.listTable);
   }]
 });
